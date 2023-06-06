@@ -1,0 +1,131 @@
+body{
+
+background-image: url("https://acortar.link/U72u1j");
+
+
+}
+
+
+
+
+header {
+    background: rgba(0,0,0,0.7);
+    width: 100%;
+    position: fixed;
+    z-index: 100;
+    border-radius: 15px;
+  }
+
+
+nav {
+    float: left;
+  }
+
+
+nav ul {
+    list-style: none;
+    overflow: hidden; 
+  }
+
+
+nav ul li {
+    float: left;
+    font-family: Arial, Helvetica, sans-serif;;
+    font-size: 20px;
+    border-radius: 10px;
+  }
+
+nav ul li a {
+        display: block; 
+        padding: 20px;
+        color: #fff;
+        text-decoration: none;
+        
+      }
+
+nav ul li:hover {
+        background: #68adab;}
+        
+
+.micro{
+
+    height: 300px;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}     
+
+.mayor{
+
+    text-align: center;
+    padding: 2rem 3rem;
+    border: 3px solid black;
+    box-shadow: 0 0 20px #222;
+
+    backdrop-filter: blur(9px);
+
+
+}
+
+.concepto{
+
+    height: 300px;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+
+.mayor2{
+
+    text-align: center;
+    padding: 2rem 3rem;
+    border: 3px solid black;
+    box-shadow: 0 0 20px #222;
+
+    backdrop-filter: blur(9px);
+
+}
+
+.tipos{
+
+  height: 300px;
+
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+}
+
+.mayor3{
+    text-align: center;
+    padding: 2rem 3rem;
+    border: 3px solid black;
+    box-shadow: 0 0 20px #222;
+
+    backdrop-filter: blur(9px);
+
+}
+
+.patogenos{
+  height: 300px;
+
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+}
+
+.mayor4{
+  
+    text-align: center;
+    padding: 2rem 3rem;
+    border: 3px solid black;
+    box-shadow: 0 0 20px #222;
+
+    backdrop-filter: blur(9px);
+
+}
